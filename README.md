@@ -78,7 +78,7 @@
 
 > ❝ 서비스를 구현하면서 저희가 겪었던 기술적인 어려움, 그리고 어려움을 해결해 나가는 과정과 저희가 도전했던 핵심 기술들을 소개해드립니다. ❞
 
-### [🔒 GraphQL에서의 권한 인증](https://www.notion.so/Graphql-631cfef39a96448d9385ea1f75a98ce5)
+### [🔒 GraphQL에서의 권한 인증](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-%EC%97%90%EC%84%9C-%EC%9D%B8%EC%A6%9D%EC%B2%98%EB%A6%AC)
 
 ### [⏳ 토큰 재발급 Custom Hooks](https://www.notion.so/Custom-Hook-dfae1045230f400092b1e35f6459cbcc)
 
