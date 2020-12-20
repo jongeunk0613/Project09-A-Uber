@@ -80,7 +80,9 @@
 
 ### [🔒 GraphQL에서의 권한 인증](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-%EC%97%90%EC%84%9C-%EC%9D%B8%EC%A6%9D%EC%B2%98%EB%A6%AC)
 
-### [⏳ 토큰 재발급 Custom Hooks](https://www.notion.so/Custom-Hook-dfae1045230f400092b1e35f6459cbcc)
+### [🔒 IKEYTAX 토큰인증 전략](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/IKEYTAX-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EC%A0%84%EB%9E%B5)
+
+### [⏳ 토큰 재발급 Custom Hooks](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Custom-Hook%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%A0%ED%81%B0-%EC%9E%AC%EB%B0%9C%EA%B8%89-%E2%8F%B3)
 
 ### [⚡ Subscription을 이용한 실시간 통신](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-Subscription)
 
