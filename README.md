@@ -82,7 +82,7 @@
 
 ### [⏳ 토큰 재발급 Custom Hooks](https://www.notion.so/Custom-Hook-dfae1045230f400092b1e35f6459cbcc)
 
-### [⚡ Subscription을 이용한 실시간 통신](https://www.notion.so/Subscription-0a9a3e8d233b4fb98889eb3130dff8a3)
+### [⚡ Subscription을 이용한 실시간 통신](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-Subscription)
 
 ### [🧪 Jest, Cypress를 이용한 테스트](https://www.notion.so/Cypress-Jest-33978ed3783b49aebab5cd79706a1e52)
 
