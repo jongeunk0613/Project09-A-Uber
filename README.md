@@ -84,7 +84,7 @@
 
 ### [⚡ Subscription을 이용한 실시간 통신](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-Subscription)
 
-### [🧪 Jest, Cypress를 이용한 테스트](https://www.notion.so/Cypress-Jest-33978ed3783b49aebab5cd79706a1e52)
+### [🧪 Jest, Cypress를 이용한 테스트](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Cypress-%EC%99%80-Jest-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%F0%9F%A7%AA)
 
 <br />
 
