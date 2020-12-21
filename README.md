@@ -84,7 +84,7 @@
 
 ### [⏳ 토큰 재발급 Custom Hooks](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Custom-Hook%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%A0%ED%81%B0-%EC%9E%AC%EB%B0%9C%EA%B8%89-%E2%8F%B3)
 
-### [⚡ Subscription을 이용한 실시간 통신](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-Subscription)
+### [⚡ Subscription을 이용한 실시간 통신](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Graphql-Subscription-%E2%9A%A1)
 
 ### [🧪 Jest, Cypress를 이용한 테스트](https://github.com/boostcamp-2020/Project09-A-Uber/wiki/Cypress-%EC%99%80-Jest-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%F0%9F%A7%AA)
 
